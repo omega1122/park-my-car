@@ -19,6 +19,8 @@ struct loginview: View {
                     .edgesIgnoringSafeArea(.all)
                 VStack{
                     Text("")
+                    Text("hello there ")
+                    Text("hello three")
                     Text("hello")
                         .font(.system(size: 40))
                         .foregroundColor(.white)
